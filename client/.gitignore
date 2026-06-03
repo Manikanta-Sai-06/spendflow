@@ -1,0 +1,3 @@
+# client/.gitignore (if not already there)
+node_modules/
+dist/
